@@ -19,7 +19,7 @@ function GuestList({guestList}) {
         </tbody>
       </table>
     </>
-    )
+    );
 }
 
 export default GuestList;
