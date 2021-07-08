@@ -4,6 +4,7 @@ import './App.css';
 
 // Component Imports
 import Header from '../Header/Header';
+import Footer from '../Footer/Footer';
 
 function App() {
   let [guestList, setGuestList] = useState([]);
